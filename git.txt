@@ -7,3 +7,6 @@ git add .  or git add <filename>
 3) to commit change ( changes ko pkka kr dena) 
 git commit -m "msg"
 
+
+yaksh chauhan
+s
